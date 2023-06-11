@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "latest",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "cypress:run": "cypress run --spec **/*.cy.ts",
+    "cypress:debug": "cypress open"
+  }
+}
