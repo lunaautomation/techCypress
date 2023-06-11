@@ -1,9 +1,9 @@
 Install dependancies first using:
 
-``` npm install ```
+`npm install`   
 
 To run the tests in headless mode use the following: 
 
-``` npm run cypress:run ``` 
+`npm run cypress:run`
 
 will run all tests and record video in the CI. 
